@@ -1,6 +1,7 @@
 body {
-  background-color: #E6E6FA;
+  background-image: url("https://thumbs.dreamstime.com/b/purple-glitter-texture-background-stars-sparkle-background-vibrant-bright-glitter-background-purple-glitter-texture-background-233413498.jpg");
   color: #105E26;
+  text-shadow: #FFFF 1px 0 10px;
   font-family: Arial, Halvetica, sans-serif;
   margin: 10% 20%;
 }
