@@ -1,7 +1,7 @@
 body {
-  background-image: url("https://i.pinimg.com/474x/e8/f1/20/e8f1208a50f5c1520c25122437b91c66.jpg");
-  color: #105E26;
-  text-shadow: #FFFF 9px 0 10px;
+  background-image: url("https://img.freepik.com/free-vector/stone-background-with-golden-strokes_125540-130.jpg");
+  background-size: cover;
+  color: #000;
   font-family: Arial, Halvetica, sans-serif;
   margin: 10% 20%;
 }
@@ -21,7 +21,6 @@ img {
 .name {
   text-align: center;
   color: #d4af37;
-  text-align: center;
 }
 
 h1 {
