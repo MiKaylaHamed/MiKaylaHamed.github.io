@@ -13,11 +13,18 @@ body {
   background-image: url("https://static.vecteezy.com/system/resources/thumbnails/004/269/022/small/gold-background-with-texture-vector.jpg");
   
 }
-
 img {
   float: right;
 }
 
 h1 {
   text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#name div {
+  align-items: center;
 }
